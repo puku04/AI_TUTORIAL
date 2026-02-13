@@ -1,5 +1,5 @@
 
-AI Tutor
+ ### AI Tutor
 
 Lightweight AI tutoring project combining a Python backend and a small Next.js auth demo.
 
